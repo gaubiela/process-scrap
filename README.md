@@ -1,4 +1,4 @@
-# Scraping Ongoing Judicial Processes 🏛️📊
+# Scraping Judicial Processes 🏛️📊
 
 ## Objective
 
