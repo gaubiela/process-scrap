@@ -67,7 +67,4 @@ After reading the process numbers from the database, scraping is performed on sp
 3. **Results Verification:**
    - Check the process data, participants, and movements tables to ensure the results are correct and complete.
 
-## Contributions
-
-Contributions are welcome! If you identify improvements or corrections, feel free to open issues or send pull requests.
 ---
