@@ -1,4 +1,4 @@
-# Reading Database and Scraping Ongoing Judicial Processes 🏛️📊
+# Scraping Ongoing Judicial Processes 🏛️📊
 
 ## Objective
 
